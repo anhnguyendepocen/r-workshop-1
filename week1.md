@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Week 1 (January 28, 2016)"
 
 ---
