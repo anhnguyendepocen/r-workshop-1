@@ -37,7 +37,6 @@ Usually, this would be the part that you are introduced to working with the R co
 We will go over the intricacies of using RStudio in the face-to-face session, but if you want to get a nice introduction to RStudio, feel free to watch the video below.
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/lVKMsaWju8w" frameborder="0" allowfullscreen></iframe>
 
 ****
 
