@@ -9,6 +9,7 @@ Welcome to the Introduction to R workshop. This week is to help total beginners 
 Obviously, if you already have previous experience using R, feel free to skip the beginning sections and focus on the refresher. 
 
 ****
+
 # 1. What is R?
 
 For those without prior programming experience, or those new to statistical modeling and analysis, wrapping ones head around the concept of R can be somewhat daunting. So what is R? The correct, and somewhat ambiguous, answer is that it is a dialect of the *S* and *S-PLUS* programming languages. Before the golden age of powerful home desktops, the development of effective numerical processing took place almost exclusively within the auspices of established technology companies. A company that is relevant to our work here is the famous AT&T Bell Laboratories, the same research and development lab that created technologies such as the fax machine, the transistor, and even the first laser! Interestingly enough, they were also influential in the development of the C and C++ programming languages. 
