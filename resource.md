@@ -3,9 +3,10 @@ layout: default
 title:  Page Two
 ---
 
-# {{ page.title }}
+# Resources with links
 
-Software | Link
--------- | ------
-R        |  https://cran.r-project.org/
-RStudio  | https://www.rstudio.com/
+**Software**
+
+[R](https://cran.r-project.org/)        
+[RStudio](https://www.rstudio.com/)
+
