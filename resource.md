@@ -5,4 +5,7 @@ title:  Page Two
 
 # {{ page.title }}
 
-> Software
+Software | Link
+-------- | ------
+R        |  https://cran.r-project.org/
+RStudio  | https://www.rstudio.com/
