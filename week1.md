@@ -34,7 +34,9 @@ Usually, this would be the part that you are introduced to working with the R co
 
 ![image](https://cbesaw.github.io/assets/rstudio.png "an image title")
 
-We will go over the intricacies of using RStudio in the face-to-face session, but if you want to get a nice introduction to RStudio, feel free to watch the video below.
+If you are having issues installing RStudio, check out the video by Roger Peng below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bM7Sfz-LADM" frameborder="0" allowfullscreen></iframe>
 
 
 
