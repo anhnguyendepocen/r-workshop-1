@@ -32,7 +32,7 @@ R is compatible with Windows, OSX, and Linux systems and is easy to install and 
 
 Usually, this would be the part that you are introduced to working with the R console, but we are going to skip that for now. For the purposes of this workshop we will utilize RStudio as a tool for streamlining the use of R and project creation. RStudio (https://www.rstudio.com/) allows you to more easily house data, code, and graphical results in research project folders and helps you to consolidate your package library across projects. Download the desktop version of RStudio and follow the installation instructions. If all goes according to plan, you should be able to open up RStudio and see something that looks like the image below.
 
-![image](https://cbesaw.github.io/assets/rconsole.png "an image title")
+![image](https://cbesaw.github.io/assets/rstudio.png "an image title")
 
 We will go over the intricacies of using RStudio in the face-to-face session, but if you want to get a nice introduction to RStudio, feel free to watch the video below.
 
