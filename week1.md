@@ -122,7 +122,7 @@ x
 
 You have printed a vector of numbers! The style of printing above is called auto-print, which is simply typing the name of the vector object. Try the other code that says *print(x)*, and you will get the same result. The *print(x)* command is called explicit printing and occurs when you call the *print()* function. Don't worry too much about understanding the difference for now, as we will go more in-depth on functions next week. 
 
-There are some conceputal issues that need to be discussed here. You are probably wondering where the previous x vector object went (x <- 2 + 2). One must be careful in naming conventions in R, especially when it comes to objects. If you use the same object name, it will overwrite the previously stored object. In addition to this convention, the basic vector object has an important rule that must always be followed, and that is uniformity of object class...
+There are some conceptual issues that need to be discussed here. You are probably wondering where the previous x vector object went (x <- 2 + 2). One must be careful in naming conventions in R, especially when it comes to objects. If you use the same object name, it will overwrite the previously stored object. In addition to this convention, the basic vector object has an important rule that must always be followed, and that is uniformity of object class...
 
 So what is an object class? Classes represent the specific type of data that can be housed in a vector. There are five distinct classes that are of importance to you at this point.[^4]
 
@@ -130,7 +130,7 @@ So what is an object class? Classes represent the specific type of data that can
 * numeric
 * character
 * complex
-* logical (boolean)
+* logical (Boolean)
 
 *Object Classes*
 
@@ -141,7 +141,7 @@ Of these five class types, three are of most importance to you as a data analyst
 y <- c(1, 10, 500)
 {% endhighlight %}
 
-Now we have two numeric vector objects in our global environment, but there was something different about this line of code. This time we used a function *c()* to create the vector. This function is called the concatenate function (don't worry too much about functions right now!) to put three differnet numbers into a vector. The concatenate function is useful for creating any type of vector. Let's try creating a character vector by typing the code below:
+Now we have two numeric vector objects in our global environment, but there was something different about this line of code. This time we used a function *c()* to create the vector. This function is called the concatenate function (don't worry too much about functions right now!) to put three different numbers into a vector. The concatenate function is useful for creating any type of vector. Let's try creating a character vector by typing the code below:
 
 
 {% highlight r %}
@@ -163,7 +163,7 @@ numbers
 
 The result of the print shows the words of three numbers! Take note of the quotation marks around the words. For character classes, also known as strings, you must specify it so by adding quotation marks around the word that you place into the character vector. 
 
-The final object class of interest here is the logical class. Logical, also known as boolean, is a TRUE/FALSE representation of data. Without going too much into the logic behind logical classes of vectors, lets first go ahead and create one and print its contents.
+The final object class of interest here is the logical class. Logical, also known as Boolean, is a TRUE/FALSE representation of data. Without going too much into the logic behind logical classes of vectors, lets first go ahead and create one and print its contents.
 
 
 {% highlight r %}
@@ -259,7 +259,7 @@ This results in a display of x as a numeric vector, but we can also change x to 
 x <- as.numeric(x)
 {% endhighlight %}
 
-You are probably already guessing that the as.() function can take on any class need. Here is a convienient list of as.() function types you can use for the classes discussed so far.
+You are probably already guessing that the as.() function can take on any class need. Here is a convenient list of as.() function types you can use for the classes discussed so far.
 
 * as.numeric()
 * as.logical()
