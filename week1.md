@@ -27,7 +27,7 @@ This has been an overly brief introduction to the history and concept of R. We w
 
 R is compatible with Windows, OSX, and Linux systems and is easy to install and get running. The core R files, and packages, are housed on CRAN (Comprehensive R Archive Network, https://cran.r-project.org/index.html). Following the link to the CRAN page will show you links to your specific system's version of R. It is advised that you download and install the base R package onto your main hard disk. The installation for Windows and OSX come in the form of an executable, and should be easily installed like any other program.[^3] If all goes according to plan, you should be able to open R from your list of applications. You will see a small minimalist box that will look similar to the picture below.
 
-rconsole picture here...
+![image]( r-workshop/figs/rconsole.png "an image title")
 
 Usually, this would be the part that you are introduced to working with the R console, but we are going to skip that for now. For the purposes of this workshop we will utilize RStudio as a tool for streamlining the use of R and project creation. RStudio (https://www.rstudio.com/) allows you to more easily house data, code, and graphical results in research project folders and helps you to consolidate your package library across projects. Download the desktop version of RStudio and follow the installation instructions. If all goes according to plan, you should be able to open up RStudio and see something that looks like the image below.
 
