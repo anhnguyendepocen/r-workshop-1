@@ -29,7 +29,8 @@ title:  Page Two
 [R-Bloggers](http://www.r-bloggers.com/)  
 [Revolution Analytics](http://blog.revolutionanalytics.com/)  
 [The R Journal](https://journal.r-project.org/)  
-[Andrew Gelman's Blog](http://andrewgelman.com/)
+[Andrew Gelman's Blog](http://andrewgelman.com/)  
+[Accidental aRt](http://accidental-art.tumblr.com/)
 
 ****
 
