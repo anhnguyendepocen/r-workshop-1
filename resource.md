@@ -19,7 +19,7 @@ title:  Page Two
 [IDRE at UCLA](http://www.ats.ucla.edu/stat/r/)  
 [Cross-Validated @ StackExchange](http://stats.stackexchange.com/)  
 [Stackoverflow](http://stackoverflow.com/) 
-[Reddit/RStats](https://www.reddit.com/r/rstats)
+[Reddit/RStats](https://www.reddit.com/r/rstats)  
 [R-tutor](http://www.r-tutor.com/)
 
 
@@ -28,7 +28,7 @@ title:  Page Two
 **R Blogs, Information, and Advanced Tutorials**  
 [R-Bloggers](http://www.r-bloggers.com/)  
 [Revolution Analytics](http://blog.revolutionanalytics.com/)  
-[The R Journal](https://journal.r-project.org/)
+[The R Journal](https://journal.r-project.org/)  
 [Andrew Gelman's Blog](http://andrewgelman.com/)
 
 ****
