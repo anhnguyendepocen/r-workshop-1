@@ -436,7 +436,7 @@ y = rnorm(100)
 plot(x,y)
 {% endhighlight %}
 
-![image](https://cbesaw.github.io/assets/unnamed-chunk-16-1.png "an image title") 
+![image](https://cbesaw.github.io/assets/week2fig1.png "an image tite") 
 
 First you created two numeric vectors (variables here) that are to be used in a scatterplot. The plot() function analyzes the type of datat that is submitted to it and plots it accordingly. Because we have two interval level vectors here, it produces a scatter plot. The plot is displayed in the bottom right panel in R Studio (remember the plots tab?). Here we see a pretty random spread within the scatter plot. The resulting output is pretty non-descript, lets change that.
 
@@ -446,7 +446,7 @@ plot(x, y, xlab = "This is the x-axis", ylab = "This is the y-axis",
      main = "Plot of X vs Y", col = "green")
 {% endhighlight %}
 
-![image](https://cbesaw.github.io/assets/unnamed-chunk-17-1.png "an image title") 
+![image](https://cbesaw.github.io/assets/week2fig2.png "an image title") 
 
 The plot is much more informative than before! The above code introduced some new arguments to the plot() function. the xlab argument names the x-axis label, ylab names the y-axis label, and main names the plot title. The col argument allows us to specify a specific color for the plot observations, in this case green. 
 
