@@ -67,7 +67,7 @@ length(y)
 ## [1] 3
 {% endhighlight %}
 
-The length() function tells us the long-wise dimension of our vector! Let's try something new with vectors...try typing the code below.
+The length() function tells us the long-wise dimension of our vector! Let's try something new with vectors. Try typing the code below.
 
 
 {% highlight r %}
@@ -141,7 +141,7 @@ ls()
 ## character(0)
 {% endhighlight %}
 
-Woah! We can see that everything is gone. Do you understand the logic of the code that was used? If not, that is okay. Remember that when you typed out ls(), it printed out what appeared to be a character vector of each object in working memory. Like any operation we have performed before, there is no reason why we couldn't place this output into its own vector object! The code list = ls() does this nicely. The object called list is told to house the names of all objects in current working memory. If we apply the rm() function to this newly created object, it will read all current objects in working memory and remove them, including your newly created list vector. 
+Woah! We can see that everything is gone. Do you understand the logic of the code that was used? If not, that is okay. Remember that when you typed out ls(), it printed out what appeared to be a character vector of each object in working memory. Like any operation we have performed before, there is no reason why we couldn't place this output into its own vector object! The code does this nicely. The object called list is told to house the names of all objects in current working memory. If we apply the rm() function to this newly created object, it will read all current objects in working memory and remove them, including your newly created list vector. 
 
 
 ## 2 matrix(), or how I learned to love matrix algebra...
@@ -436,7 +436,7 @@ y = rnorm(100)
 plot(x,y)
 {% endhighlight %}
 
-![image](https://cbesaw.github.io/assets/week2fig1.png "an image tite") 
+![image](https://cbesaw.github.io/assets/rconsole.jpg "an image title") 
 
 First you created two numeric vectors (variables here) that are to be used in a scatterplot. The plot() function analyzes the type of datat that is submitted to it and plots it accordingly. Because we have two interval level vectors here, it produces a scatter plot. The plot is displayed in the bottom right panel in R Studio (remember the plots tab?). Here we see a pretty random spread within the scatter plot. The resulting output is pretty non-descript, lets change that.
 
