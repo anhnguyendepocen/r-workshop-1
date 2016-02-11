@@ -436,7 +436,7 @@ y = rnorm(100)
 plot(x,y)
 {% endhighlight %}
 
-![image](https://cbesaw.github.io/assets/rconsole.jpg "an image title") 
+![image](https://cbesaw.github.io/assets/week2fig1.png "an image title") 
 
 First you created two numeric vectors (variables here) that are to be used in a scatterplot. The plot() function analyzes the type of datat that is submitted to it and plots it accordingly. Because we have two interval level vectors here, it produces a scatter plot. The plot is displayed in the bottom right panel in R Studio (remember the plots tab?). Here we see a pretty random spread within the scatter plot. The resulting output is pretty non-descript, lets change that.
 
