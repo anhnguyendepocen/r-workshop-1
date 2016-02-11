@@ -11,3 +11,6 @@ Hello, and welcome to the page for the spring Security Studies workshop on learn
 [Week 1 (January 28, 2016): Installation, Acclimation, and Basic Introduction](http://cbesaw.github.io/r-workshop/week1.html)
 
 [Week 2 (February 11 , 2016): Introduction Part 2](http://cbesaw.github.io/r-workshop/week2.md)
+
+[test](http://cbesaw.github.io/r-workshop/test.html)
+
