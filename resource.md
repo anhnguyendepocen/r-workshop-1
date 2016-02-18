@@ -34,3 +34,9 @@ title:  Page Two
 
 ****
 
+**R Studio Cheatsheets**
+[R Studio IDE Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) 
+[Shiny Interactive Webapp Cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/shiny-cheatsheet.pdf) 
+[ggplot2 Cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf) 
+[Data munging and Management with dplyr and tidyr](http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf) 
+
