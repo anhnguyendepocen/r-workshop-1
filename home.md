@@ -14,7 +14,9 @@ Hello, and welcome to the page for the spring Security Studies workshop on learn
 
 [Lab 3 (February 18, 2016): Importing and Working with Data Frames](http://cbesaw.github.io/r-workshop/week3.html)
 
-[Lab 4b (March 24, 2016): Functions, Control Structures, and Programming](http://cbesaw.github.io/r-workshop/week4b.html)
+[Lab 4 (March 24, 2016): Functions, Control Structures, and Programming](http://cbesaw.github.io/r-workshop/week4b.html)
+
+[Lab 5 (March 24, 2016): Linear Regression 1 in R](http://cbesaw.github.io/r-workshop/week4a.html)
 
 
 
